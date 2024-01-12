@@ -89,6 +89,15 @@
         "data": ""
     },
     {
+        "desc": "luohu",
+        "url": "https://www.luohuedu.net/mobile20.aspx?mobile=[phone]",
+        "method": "GET",
+        "header": "",
+        "data": ""
+    },
+
+
+    {
         "desc": "酷安(一天只能一次)",
         "url": "https://account.coolapk.com/auth/login?type=mobile",
         "method": "POST",
